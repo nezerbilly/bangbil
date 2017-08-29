@@ -1,0 +1,2 @@
+# bangbil
+file js safelink
